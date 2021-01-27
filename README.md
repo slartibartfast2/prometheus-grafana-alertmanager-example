@@ -1,1 +1,1 @@
-# prometheus-grafana-alertmanager-example
+# Prometheus & Grafana docker-compose monitoring stack
